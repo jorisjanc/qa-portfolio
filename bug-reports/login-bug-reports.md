@@ -23,7 +23,6 @@ Priority: High
 ### Bug-02: Error message is displayed even when both fields are empty
 
 Environment:
-- Application: https://the-internet.herokuapp.com/login
 - Browser: Chrome
 - OS: Windows
 
