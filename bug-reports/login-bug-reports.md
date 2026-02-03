@@ -1,6 +1,7 @@
 ### Bug-01: Login fails when username contains trailing space
 
 Environment:
+- Application: https://the-internet.herokuapp.com/login
 - Browser: Chrome
 - OS: Windows
 
@@ -22,6 +23,7 @@ Priority: High
 ### Bug-02: Error message is displayed even when both fields are empty
 
 Environment:
+- Application: https://the-internet.herokuapp.com/login
 - Browser: Chrome
 - OS: Windows
 
